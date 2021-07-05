@@ -1,5 +1,5 @@
 <h1 align="center">Hi Dev's👋, Manav Here 👨‍🎓</h1>
-<h3 align="center">This is Manav Misra, A pursuing Computer Science Student👨🏼‍💻 I am DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</h3>
+<h3 align="center">This is Manav Misra, A pursuing Computer Science Student👨🏼‍💻 I am DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having Good Leadership & Management Skills .</h3>
 
 - 🔭 I’m currently working on **DevOps and Full Stack Development**
 
