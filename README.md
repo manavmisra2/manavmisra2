@@ -26,3 +26,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&locale=en" alt="manavmisra2" /></p>
 
+
+**Visitor Count** <br> 
+
+![Visitor Count](https://profile-counter.glitch.me/uttusharma/count.svg)
+<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=manavmisra2&theme=rogue" /> -->
+
+<!-- <br>
+<img  src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for manavmisra2">
+ -->
