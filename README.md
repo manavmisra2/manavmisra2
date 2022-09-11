@@ -24,8 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavmisra2&show_icons=true&locale=en&layout=compact" alt="manavmisra2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&locale=en" alt="manavmisra2" /></p>
-
+![Astronaut](https://raw.githubusercontent.com/jinliming2/jinliming2/master/astronaut.svg)
 
 **Visitor Count** <br> 
 
