@@ -35,7 +35,7 @@
 
 **Visitor Count** <br> 
 
-![Visitor Count](https://profile-counter.glitch.me/uttusharma/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/manavmisra2/count.svg)
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=manavmisra2&theme=rogue" /> -->
 
 <!-- <br>
