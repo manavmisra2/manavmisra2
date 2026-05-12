@@ -32,5 +32,3 @@ Cloud Architect at [Particula](https://particula.earth) — building the platfor
 ## Currently
 
 - Automating deploys — OIDC + SSM, no SSH keys
-- Building particula-ratings-pm — NestJS + Nuxt 3 + PostgreSQL
-- Pushing toward SOC 2 compliance
