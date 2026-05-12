@@ -1,5 +1,7 @@
 # Hey, I'm Manav 👋
 
+<img src="https://komarev.com/ghpvc/?username=manavmisra2&label=Profile%20views&color=0e75b6&style=flat" alt="manavmisra2" />
+
 Cloud Architect at [Particula](https://particula.earth) — building the platform infrastructure that keeps everything running.
 
 ## What I work on
@@ -30,6 +32,7 @@ Cloud Architect at [Particula](https://particula.earth) — building the platfor
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
