@@ -19,16 +19,3 @@ Cloud Architect at [Particula](https://particula.earth) — building the platfor
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmisra2&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
-![Streak](https://streak-stats.demolab.com?user=manavmisra2&theme=dark&hide_border=true)
-
-## Currently
-
-- Automating deploys — OIDC + SSM, no SSH keys
