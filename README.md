@@ -7,19 +7,30 @@ Cloud Architect at [Particula](https://particula.earth) — building the platfor
 - **Cloud & Infra** — AWS, EC2, RDS, SSM, IAM, Route 53
 - **CI/CD** — GitHub Actions, OIDC, zero stored credentials
 - **Platform Engineering** — staging environments, automated deployments, observability
-- **IaC** — OpenTofu / Terraform (in progress)
+- **IaC** — OpenTofu / Terraform
 
 ## Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+
+## Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmisra2&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
+
+![Streak](https://streak-stats.demolab.com?user=manavmisra2&theme=dark&hide_border=true)
 
 ## Currently
 
-- Automating staging deployments — OIDC + SSM, no SSH keys
-- Migrating MongoDB → PostgreSQL
-- Building toward SOC 2 compliance
+- Automating deploys — OIDC + SSM, no SSH keys
+- Building particula-ratings-pm — NestJS + Nuxt 3 + PostgreSQL
+- Pushing toward SOC 2 compliance
