@@ -1,45 +1,79 @@
+<div align="center">
+
 # Hey, I'm Manav 👋
 
-<img src="https://komarev.com/ghpvc/?username=manavmisra2&label=Profile%20views&color=0e75b6&style=flat" alt="manavmisra2" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Cloud+Architect+%40+Particula;CI%2FCD+%E2%80%A2+DevOps+%E2%80%A2+Platform+Engineering;AWS+%E2%80%A2+IaC+%E2%80%A2+Automation+that+keeps+deploys+boring)](https://git.io/typing-svg)
 
-Cloud Architect at [Particula](https://particula.earth) — building the platform infrastructure that keeps everything running.
+<img src="https://komarev.com/ghpvc/?username=manavmisra2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-## What I work on
+</div>
 
-- **Cloud & Infra** — AWS, EC2, RDS, SSM, IAM, Route 53
-- **CI/CD** — GitHub Actions, OIDC, zero stored credentials
-- **Platform Engineering** — staging environments, automated deployments, observability
-- **IaC** — OpenTofu / Terraform
+---
 
-## Connect
+### 🚀 About me
+
+Cloud Architect at **[Particula](https://particula.earth)**, where I own the platform — cloud infrastructure, CI/CD pipelines, and the automation that keeps shipping safe and uneventful.
+
+- 🏗️ &nbsp; Design and run AWS infrastructure end-to-end
+- ⚙️ &nbsp; Build zero-credential CI/CD with GitHub Actions + OIDC
+- 📦 &nbsp; Codify everything in OpenTofu / Terraform
+- 🔭 &nbsp; Care about platform engineering, observability and FinOps
+- 🤖 &nbsp; Tinker with AI & automation on the side
+
+---
+
+### 🛠️ Tech I work with
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**IaC & CI/CD**
+
+![Terraform](https://img.shields.io/badge/Terraform_/_OpenTofu-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Backend & Data**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manavmisra2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmisra2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=manavmisra2&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+### 🌐 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/manavmisra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavmisra2" height="30" width="40" /></a>
-<a href="https://twitter.com/manavmisra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manavmisra1" height="30" width="40" /></a>
-<a href="https://instagram.com/manavmisra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manavmisra" height="30" width="40" /></a>
-<a href="https://medium.com/@manavmisra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manavmisra2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/curator maniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="curator maniac" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manavmisra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manavmisra2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manavmisra10120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manavmisra10120" height="30" width="40" /></a>
-<a href="https://fb.com/manavmisra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manavmisra2" height="30" width="40" /></a>
-<a href="mailto:manavmisra2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manavmisra2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/manavmisra1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://manavmisra2.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/manavmisra2" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:manavmisra2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-![Streak](https://streak-stats.demolab.com?user=manavmisra2&theme=dark&hide_border=true)
+<div align="center">
+<i>"Automate the boring, observe the rest."</i>
+</div>
