@@ -12,13 +12,13 @@
 
 ### 🚀 About me
 
-Cloud Architect at **[Particula](https://particula.earth)**, where I own the platform — cloud infrastructure, CI/CD pipelines, and the automation that keeps shipping safe and uneventful.
+I'm a Cloud Architect at **[Particula](https://particula.earth)**. I own the platform: AWS infrastructure, CI/CD, and the automation behind safe, repeatable deploys.
 
-- 🏗️ &nbsp; Design and run AWS infrastructure end-to-end
-- ⚙️ &nbsp; Build zero-credential CI/CD with GitHub Actions + OIDC
-- 📦 &nbsp; Codify everything in OpenTofu / Terraform
-- 🔭 &nbsp; Care about platform engineering, observability and FinOps
-- 🤖 &nbsp; Tinker with AI & automation on the side
+- 🏗️ &nbsp; Run AWS infrastructure end-to-end
+- ⚙️ &nbsp; CI/CD on GitHub Actions + OIDC, no stored credentials
+- 📦 &nbsp; Infrastructure as code with OpenTofu / Terraform
+- 🔭 &nbsp; Focused on reliability, observability and cloud cost
+- 🤖 &nbsp; Building with AI & automation
 
 ---
 
@@ -73,7 +73,3 @@ Cloud Architect at **[Particula](https://particula.earth)**, where I own the pla
 <a href="https://leetcode.com/manavmisra2" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:manavmisra2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<div align="center">
-<i>"Automate the boring, observe the rest."</i>
-</div>
